@@ -32,27 +32,27 @@ Description is better
 </p>
 
 
-Overall Architecture Style Analysis
-Microservices
+#### Overall Architecture Style Analysis
+####  Microservices
 …
-Event Driven
+####  Event Driven
 …
-Space-Based
+####  Space-Based
 …
-Conclusion
+####  Conclusion
 All options have trade-offs …
-Decision
+####  Decision
 We will use event-driven architecture. Because of poor performance criteria, we did not choose microservices. We have prepared the ADR-1 event-driven architecture.
 We will keep our architectural framework agnostic.
-Diagrams
+####  Diagrams
 …
-Components 
-IAM, Reporting and Analytics (ETL), Notification, …
-Deployment
+####  Components 
+####  IAM, Reporting and Analytics (ETL), Notification, …
+####  Deployment
 …
-Cost Analysis
+####  Cost Analysis
 …
-Evaluation, Risks, and Architecture Fitness
+####  Evaluation, Risks, and Architecture Fitness
 …
-ADRs
+####  ADRs
 …
