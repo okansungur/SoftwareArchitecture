@@ -1,5 +1,5 @@
 
-***Architecture Characteristics**
+**Architecture Characteristics**
 
 **Performance**
 
